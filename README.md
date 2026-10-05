@@ -1,5 +1,5 @@
-# Lógica Python
+# Nome do projeto: Criando nosso projeto em python
 
-# Samuel
+## Nome: Samuel Eduardo Ferreira Friedrichsen
 
-## Lógica de Programação em Python
+## Descrição: Lógica de Programação em Python
