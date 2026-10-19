@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75ee5b6f-813d-441e-897d-8c1fb7d30a0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/06_POO/exemplo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5 - Atividades/Exercícios 1-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Listas_Tuplas_Dicionários/5 - Atividades/Exercícios 1-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,17 +24,73 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;samuelfriedrichs-max&quot;
-  }
+  &quot;lastFilter&quot;: {}
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/samuelfriedrichs-max/Logica_programa-o_python.git&quot;,
-    &quot;accountId&quot;: &quot;03b7e349-6882-45da-bba4-c74995a430bd&quot;
+    &quot;accountId&quot;: &quot;05013563-df06-49d2-a431-cdc37716d14a&quot;
   }
 }</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000004270335359" />
+      <entry key="S2" value="1.0295460153023674" />
+      <entry key="S5" value="1.3485923118589402" />
+      <entry key="S10" value="2.0261659541621886" />
+      <entry key="S30" value="5.686601188534196" />
+      <entry key="S60" value="10.303648130452917" />
+      <entry key="M2" value="16.298610299661092" />
+      <entry key="M5" value="27.548284758420184" />
+      <entry key="M10" value="36.54988108496" />
+      <entry key="M15" value="40.90446206882582" />
+      <entry key="M30" value="46.278369935191776" />
+      <entry key="H1" value="49.445393012672206" />
+      <entry key="H2" value="51.170557878264525" />
+      <entry key="H4" value="52.071744614042416" />
+      <entry key="D1" value="52.84336665304353" />
+      <entry key="W1" value="52.97757609445453" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.2403850061408858E-295" />
+      <entry key="S2" value="1.8766752521119455E-74" />
+      <entry key="S5" value="3.231139070659434E-30" />
+      <entry key="S10" value="1.7975369455617433E-15" />
+      <entry key="S30" value="1.215885301600728E-5" />
+      <entry key="S60" value="0.003486954690845191" />
+      <entry key="M2" value="0.059050441919135485" />
+      <entry key="M5" value="0.32246995785555904" />
+      <entry key="M10" value="0.5678643833307023" />
+      <entry key="M15" value="0.685745690411178" />
+      <entry key="M30" value="0.8280976333809797" />
+      <entry key="H1" value="0.9099986996589492" />
+      <entry key="H2" value="0.9539385198527995" />
+      <entry key="H4" value="0.9766977627970687" />
+      <entry key="D1" value="0.9960780398697627" />
+      <entry key="W1" value="0.999438775947438" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0016423758110424107" />
+      <entry key="MS500" value="0.2773925380846344" />
+      <entry key="S2" value="0.7489482763964396" />
+      <entry key="S5" value="1.1944721294098797" />
+      <entry key="S10" value="1.915523592540023" />
+      <entry key="S30" value="5.609651383123087" />
+      <entry key="S60" value="10.24620613321347" />
+      <entry key="M2" value="16.297490352907136" />
+      <entry key="M5" value="27.78609691089953" />
+      <entry key="M10" value="37.04089683851098" />
+      <entry key="M15" value="41.52685798711867" />
+      <entry key="M30" value="47.06708875152371" />
+      <entry key="H1" value="50.333398483032326" />
+      <entry key="H2" value="52.11286941578227" />
+      <entry key="H4" value="53.04246398848799" />
+      <entry key="D1" value="53.83842474754266" />
+      <entry key="W1" value="53.97686857866918" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0,
   &quot;fromUser&quot;: false
@@ -48,27 +103,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Listas_Tuplas_dicionários.executor&quot;: &quot;Run&quot;,
-    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samuel_friedrichs/Documents/Logica-de-Programacao-em-Python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Listas_Tuplas_dicionários.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.exemplo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/samuel_friedrichs/Documents/Logica-de-Programacao-em-Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\samuel_friedrichs\Documents\Logica-de-Programacao-em-Python" />
@@ -120,6 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1787584489471</updated>
       <workItem from="1790690031877" duration="266000" />
+      <workItem from="1792418688569" duration="2112000" />
     </task>
     <servers />
   </component>
@@ -141,5 +201,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Logica_programa_o_python$exemplo.coverage" NAME="exemplo Coverage Results" MODIFIED="1792420122925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_POO" />
+    <SUITE FILE_PATH="coverage/Logica_programa_o_python$Listas_Tuplas_dicionários.coverage" NAME="Listas_Tuplas_dicionários Coverage Results" MODIFIED="1792419965205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04 - Listas_Tuplas_Dicionários" />
   </component>
 </project>
