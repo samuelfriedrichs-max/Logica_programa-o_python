@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75ee5b6f-813d-441e-897d-8c1fb7d30a0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06_POO/exemplo.py" afterDir="false" />
+    <list default="true" id="75ee5b6f-813d-441e-897d-8c1fb7d30a0f" name="Changes" comment="&quot;colocando o sexto exemplo&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,61 +33,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000004270335359" />
-      <entry key="S2" value="1.0295460153023674" />
-      <entry key="S5" value="1.3485923118589402" />
-      <entry key="S10" value="2.0261659541621886" />
-      <entry key="S30" value="5.686601188534196" />
-      <entry key="S60" value="10.303648130452917" />
-      <entry key="M2" value="16.298610299661092" />
-      <entry key="M5" value="27.548284758420184" />
-      <entry key="M10" value="36.54988108496" />
-      <entry key="M15" value="40.90446206882582" />
-      <entry key="M30" value="46.278369935191776" />
-      <entry key="H1" value="49.445393012672206" />
-      <entry key="H2" value="51.170557878264525" />
-      <entry key="H4" value="52.071744614042416" />
-      <entry key="D1" value="52.84336665304353" />
-      <entry key="W1" value="52.97757609445453" />
+      <entry key="MS100" value="1.00000000002252" />
+      <entry key="MS500" value="1.0074218780344295" />
+      <entry key="S2" value="1.296752591895244" />
+      <entry key="S5" value="1.8088784471629022" />
+      <entry key="S10" value="2.762074054459367" />
+      <entry key="S30" value="6.768452204107247" />
+      <entry key="S60" value="10.94263971326457" />
+      <entry key="M2" value="16.105908258897244" />
+      <entry key="M5" value="30.26621934131751" />
+      <entry key="M10" value="50.844581095681804" />
+      <entry key="M15" value="66.24271931762561" />
+      <entry key="M30" value="93.45875891883395" />
+      <entry key="H1" value="115.42373779287604" />
+      <entry key="H2" value="129.734371860286" />
+      <entry key="H4" value="137.95565897464294" />
+      <entry key="D1" value="145.43144644565183" />
+      <entry key="W1" value="146.77436761041557" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.2403850061408858E-295" />
-      <entry key="S2" value="1.8766752521119455E-74" />
-      <entry key="S5" value="3.231139070659434E-30" />
-      <entry key="S10" value="1.7975369455617433E-15" />
-      <entry key="S30" value="1.215885301600728E-5" />
-      <entry key="S60" value="0.003486954690845191" />
-      <entry key="M2" value="0.059050441919135485" />
-      <entry key="M5" value="0.32246995785555904" />
-      <entry key="M10" value="0.5678643833307023" />
-      <entry key="M15" value="0.685745690411178" />
-      <entry key="M30" value="0.8280976333809797" />
-      <entry key="H1" value="0.9099986996589492" />
-      <entry key="H2" value="0.9539385198527995" />
-      <entry key="H4" value="0.9766977627970687" />
-      <entry key="D1" value="0.9960780398697627" />
-      <entry key="W1" value="0.999438775947438" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.7408076431496054E-94" />
+      <entry key="S5" value="3.1680179152753897E-38" />
+      <entry key="S10" value="1.9512125590498593E-19" />
+      <entry key="S30" value="8.238574011028174E-7" />
+      <entry key="S60" value="0.0012615280891186717" />
+      <entry key="M2" value="0.05000582958177378" />
+      <entry key="M5" value="0.45916964995968906" />
+      <entry key="M10" value="1.0040519733960747" />
+      <entry key="M15" value="1.3551207486058736" />
+      <entry key="M30" value="1.9278867908425896" />
+      <entry key="H1" value="2.371959519019876" />
+      <entry key="H2" value="2.6575331948313297" />
+      <entry key="H4" value="2.8208186060522342" />
+      <entry key="D1" value="2.9689528557249845" />
+      <entry key="W1" value="2.995534604380072" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0016423758110424107" />
-      <entry key="MS500" value="0.2773925380846344" />
-      <entry key="S2" value="0.7489482763964396" />
-      <entry key="S5" value="1.1944721294098797" />
-      <entry key="S10" value="1.915523592540023" />
-      <entry key="S30" value="5.609651383123087" />
-      <entry key="S60" value="10.24620613321347" />
-      <entry key="M2" value="16.297490352907136" />
-      <entry key="M5" value="27.78609691089953" />
-      <entry key="M10" value="37.04089683851098" />
-      <entry key="M15" value="41.52685798711867" />
-      <entry key="M30" value="47.06708875152371" />
-      <entry key="H1" value="50.333398483032326" />
-      <entry key="H2" value="52.11286941578227" />
-      <entry key="H4" value="53.04246398848799" />
-      <entry key="D1" value="53.83842474754266" />
-      <entry key="W1" value="53.97686857866918" />
+      <entry key="MS100" value="0.01143816949957522" />
+      <entry key="MS500" value="0.4094168298794622" />
+      <entry key="S2" value="0.9495938136576386" />
+      <entry key="S5" value="1.563455407401178" />
+      <entry key="S10" value="2.581495700957103" />
+      <entry key="S30" value="6.645224614840065" />
+      <entry key="S60" value="10.851637379376141" />
+      <entry key="M2" value="16.092825348278748" />
+      <entry key="M5" value="30.686107818310443" />
+      <entry key="M10" value="51.81599056823797" />
+      <entry key="M15" value="67.56573345431357" />
+      <entry key="M30" value="95.35779349768686" />
+      <entry key="H1" value="117.77485188772522" />
+      <entry key="H2" value="132.3791696505643" />
+      <entry key="H4" value="140.76941308155813" />
+      <entry key="D1" value="148.39911324270187" />
+      <entry key="W1" value="149.76971566305681" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -106,6 +105,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Atividades_Classes_objetos.executor": "Run",
     "Python.Listas_Tuplas_dicionários.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.exemplo.executor": "Run",
@@ -179,12 +179,25 @@
       <option name="presentableId" value="Default" />
       <updated>1787584489471</updated>
       <workItem from="1790690031877" duration="266000" />
-      <workItem from="1792418688569" duration="2112000" />
+      <workItem from="1792418688569" duration="3638000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;colocando o sexto exemplo&quot;">
+      <option name="closed" value="true" />
+      <created>1792420887143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792420887143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;colocando o sexto exemplo&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;colocando o sexto exemplo&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -204,6 +217,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Logica_programa_o_python$exemplo.coverage" NAME="exemplo Coverage Results" MODIFIED="1792420122925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_POO" />
+    <SUITE FILE_PATH="coverage/Logica_programa_o_python$Atividades_Classes_objetos.coverage" NAME="Atividades_Classes_objetos Coverage Results" MODIFIED="1792422269527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_POO" />
     <SUITE FILE_PATH="coverage/Logica_programa_o_python$Listas_Tuplas_dicionários.coverage" NAME="Listas_Tuplas_dicionários Coverage Results" MODIFIED="1792419965205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04 - Listas_Tuplas_Dicionários" />
   </component>
 </project>
