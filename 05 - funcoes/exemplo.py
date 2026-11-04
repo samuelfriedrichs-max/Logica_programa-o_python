@@ -21,7 +21,7 @@ saudacao("Ana")
 saudacao("João")
 
 #3. Mais um parâmetro
-def apresentar()
+def apresentar():
         print(f"nome: {nome}")
         print(f"idade: {idade}")
 
